@@ -7,10 +7,10 @@
 ## about me
 
 - 🌱 I’m currently learning ... JavaScript
-- 👯 I’m looking to collaborate on ...small projects
+- 👯 I’m looking to collaborate on ...Any projects
 - 💬 Ask me about ...HTML,CSS,JavaScript,React
 - 📫 How to reach me: [Twiter](https://twitter.com/richardfriday14)
-- ⚡ Fun fact: ... I Love playing chess when am bored!
+- ⚡ Fun fact: ... I Love Reading and playing chess when am bored!
 
 ## Languages & Frameworks. 🚧 
 
