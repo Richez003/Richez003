@@ -29,8 +29,9 @@
 
 <br/>
 <a href="https://github.com/Richez003/github-readme-activity-graph"><img alt="richard's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Richez003&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
+<br/>
+
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/richard-friday-54980718a"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
