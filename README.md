@@ -24,3 +24,11 @@
 ### GitHub Status.  
 [![Richez003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richez003&show_icons=true&theme=dracula)](https://github.com/Kayonga99/github-readme-stats)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Richez003&theme=radical" alt="tedlivist" /></p>
+
+<br/>
+<br/>
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/richard-friday-54980718a"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/richardfriday14"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p>
