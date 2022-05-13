@@ -26,6 +26,10 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Richez003&theme=radical" alt="tedlivist" /></p>
 
 <br/>
+
+<br/>
+<a href="https://github.com/Richez003/github-readme-activity-graph"><img alt="richard's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jasonfelice&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <br/>
 ## Connect with me:
 <p align="left">
