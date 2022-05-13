@@ -23,6 +23,5 @@
 
 
 ### GitHub Status.  
-
 [![Richez003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richez003&show_icons=true&theme=dracula)](https://github.com/Kayonga99/github-readme-stats)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Richez003&theme=radical" alt="tedlivist" /></p>
