@@ -4,7 +4,7 @@
 <h1 align="center">Hello There, I'm Richard</h1>
 <h3 align="center">I'm a Full Stack Developer and enjoy building websites and apps.</h3>
 
-##About me
+###About me
 
 - 🌱 I’m currently learning ... JavaScript
 - 👯 I’m looking to collaborate on ...Any projects
@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Twiter](https://twitter.com/richardfriday14)
 - ⚡ Fun fact: ... I Love Reading and playing chess when am bored!
 
-##Languages & Frameworks. 🚧 
+###Languages & Frameworks. 🚧 
 
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-##Connect with me:
+###Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/richard-friday-54980718a"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/richardfriday14"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
