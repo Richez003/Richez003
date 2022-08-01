@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ... JavaScript
 - 👯 I’m looking to collaborate on ...Any projects
-- 💬 Ask me about ...HTML,CSS,JavaScript,React
+- 💬 Ask me about ...HTML,CSS,JavaScript,React, SQL, ruby and rails
 - 📫 How to reach me: [Twiter](https://twitter.com/richardfriday14)
 - ⚡ Fun fact: ... I Love Reading and playing chess when am bored!
 
